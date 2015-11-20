@@ -1,5 +1,5 @@
 {
-	"name": "jquery-ui",
+	"name": "elliptical-jquery-ui",
 	"ignore": [
 		"**/.*",
 		"build",
