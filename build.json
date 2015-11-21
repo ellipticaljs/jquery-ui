@@ -1,0 +1,4 @@
+[
+  "./ui/version.js",
+  "./ui/widget.js"
+]

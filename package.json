@@ -2,7 +2,7 @@
 	"name": "elliptical-jquery-ui",
 	"title": "jQuery UI",
 	"description": "A curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.",
-	"version": "1.13",
+	"version": "1.1.15",
 	"homepage": "http://jqueryui.com",
 	"author": {
 		"name": "jQuery Foundation and other contributors",
@@ -50,7 +50,9 @@
 	"scripts": {
 		"test": "grunt"
 	},
-	"dependencies": {},
+	"dependencies": {
+	  "elliptical-jquery":"git+https://github.com/tachyon1337/jquery.git"
+	},
 	"devDependencies": {
 		"commitplease": "2.0.0",
 		"grunt": "0.4.2",
@@ -68,7 +70,13 @@
 		"grunt-jscs": "2.1.0",
 		"load-grunt-tasks": "0.3.0",
 		"rimraf": "2.1.4",
-		"testswarm": "1.1.0"
+		"testswarm": "1.1.0",
+	     "gulp": "^3.8.7",
+	     "gulp-util": "^2.2.14",
+	     "gulp-concat": "^2.2.0",
+	     "gulp-tap": "^0.1.1",
+	     "fs-extra": "^0.8.1",
+	     "gulp-uglify": "^0.2.1"
 	},
 	"keywords": []
 }
