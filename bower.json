@@ -1,6 +1,6 @@
 {
   "name": "elliptical-jquery-ui",
-  "version":"1.11.3",
+  "version":"1.11.4",
   "main": "dist/widget.js",
   "ignore": [
     "**/.*",
@@ -10,6 +10,6 @@
     "tests"
   ],
   "dependencies": {
-    "elliptical-jquery": "~2.1.6"
+    "elliptical-jquery": ">=3.0.0"
   }
 }
