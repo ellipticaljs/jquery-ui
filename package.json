@@ -2,7 +2,7 @@
 	"name": "elliptical-jquery-ui",
 	"title": "jQuery UI",
 	"description": "A curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.",
-	"version": "1.11.4",
+	"version": "1.11.5",
 	"homepage": "http://jqueryui.com",
 	"author": {
 		"name": "jQuery Foundation and other contributors",
@@ -43,7 +43,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tachyon1337/jquery-ui.git"
+		"url": "https://github.com/ellipticaljs/jquery-ui.git"
 	},
 	"bugs": "http://bugs.jqueryui.com/",
 	"license": "MIT",
@@ -51,7 +51,7 @@
 		"test": "grunt"
 	},
 	"dependencies": {
-	  "elliptical-jquery":"git+https://github.com/tachyon1337/jquery.git"
+	  "elliptical-jquery":"git+https://github.com/ellipticaljs/jquery.git"
 	},
 	"devDependencies": {
 		"commitplease": "2.0.0",
