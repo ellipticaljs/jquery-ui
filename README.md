@@ -1,5 +1,9 @@
 # [jQuery UI](http://jqueryui.com/) - Interactions and Widgets for the web
 
+# NOTICE
+
+This repo is now deprecated. The project has moved to https://github.com/ellipticaljs/jquery-ui
+
 jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of jQuery. Whether you're building highly interactive web applications, or you just need to add a date picker to a form control, jQuery UI is the perfect choice.
 
 If you want to use jQuery UI, go to [jqueryui.com](http://jqueryui.com) to get started, [jqueryui.com/demos/](http://jqueryui.com/demos/) for demos, [api.jqueryui.com](http://api.jqueryui.com/) for API documentation, or the [Using jQuery UI Forum](http://forum.jquery.com/using-jquery-ui) for discussions and questions.
